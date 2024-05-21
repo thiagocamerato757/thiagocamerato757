@@ -1,6 +1,5 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://your-logo-url.com/logo.png" alt="Logo" width="200" height="200">
   <h1>Olá, eu sou Thiago 👋</h1>
   <p>Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontrará meus projetos, contribuições e um pouco mais sobre mim.</p>
 </div>
