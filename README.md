@@ -24,7 +24,7 @@
 </p>
 
 <!-- PROJETOS DESTACADOS -->
-<h2>Projetos Destacados</h2>
+<h2>Alguns Projetos</h2>
 
 <h3><a href="https://github.com/thiagocamerato757/programs-in-C.git">C-programs</a></h3>
 <p>Minha jornada em C</p>
