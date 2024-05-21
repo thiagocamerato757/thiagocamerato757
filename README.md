@@ -33,7 +33,7 @@
   <li>**Repositório:** <a href="https://github.com/thiagocamerato757/programs-in-C.git">Link para o repositório</a></li>
 </ul>
 
-<h3><a href="https://github.com/thiagocamerato757/Batalha-Naval.git">Nome do Projeto 2</a></h3>
+<h3><a href="https://github.com/thiagocamerato757/Batalha-Naval.git">Batalha-Naval</a></h3>
 <p>jogo de Batalha naval feito em java</p>
 <ul>
   <li>**Repositório:** <a href="https://github.com/thiagocamerato757/Batalha-Naval.git">Link para o repositório</a></li>
