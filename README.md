@@ -1,9 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+Code&color=2ECC71&lines=Hi+there!+I'm+Thiago.+;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 <div>
-    <img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" alt="Coding GIF" width="600" align="right" />
+ <img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" alt="Coding GIF" width="600" align="right" />
     
-   <p>Welcome to my GitHub! I'm passionate about coding, problem-solving, and open-source contributions. Feel free to explore my projects and see what I'm working on!</p>
+ <p> I’m passionate about building efficient algorithms, learning new technologies, and tackling challenging projects. I enjoy working on innovative ideas and continuously improving my skills. Feel free to explore my projects and see what I’ve been creating!
+ </p>
 </div>
 
 ### 🔧 Tools and Technologies:
