@@ -1,52 +1,64 @@
-<!-- HEADER -->
-<div align="center">
-  <h1>Olá, eu sou Thiago 👋</h1>
-  <p>Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontrará meus projetos, contribuições e um pouco mais sobre mim.</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+Code&color=2ECC71&lines=Hi+there!+I'm+Thiago.+;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
+<div>
+    <img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" alt="Coding GIF" width="600" align="right" />
+    
+   <p>Welcome to my GitHub! I'm passionate about coding, problem-solving, and open-source contributions. Feel free to explore my projects and see what I'm working on!</p>
 </div>
 
-<!-- SOBRE MIM -->
-<h2>Sobre Mim</h2>
-<ul>
-  <li>🔭 Atualmente estou trabalhando em <b>Batalha Naval</b></li>
-  <li>🌱 Estou aprendendo <b>Java, html, css e javascript</b></li>
-  <li>📫 Como me encontrar: <b>cameratothiago@gmail.com</b></li>
-</ul>
+### 🔧 Tools and Technologies:
 
-<!-- HABILIDADES -->
-<h2>Habilidades</h2>
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
-</p>
+#### **Front-end:**
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/>
+</div>
 
-<!-- PROJETOS DESTACADOS -->
-<h2>Alguns Projetos</h2>
+#### **Back-end:**
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/> 
+</div>
 
-<h3><a href="https://github.com/thiagocamerato757/programs-in-C.git">C-programs</a></h3>
-<p>Minha jornada em C</p>
-<ul>
-  <li>**Repositório:** <a href="https://github.com/thiagocamerato757/programs-in-C.git">Link para o repositório</a></li>
-</ul>
+#### **Database:**
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/>
+</div>
 
-<h3><a href="https://github.com/thiagocamerato757/Batalha-Naval.git">Batalha-Naval</a></h3>
-<p>jogo de Batalha naval feito em java</p>
-<ul>
-  <li>**Repositório:** <a href="https://github.com/thiagocamerato757/Batalha-Naval.git">Link para o repositório</a></li>
-</ul>
+#### **Tools:**
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40"/> 
+</div>
 
-<!-- ESTATÍSTICAS DO GITHUB -->
-<h2>Estatísticas do GitHub</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiagocamerato757&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagocamerato757&layout=compact&theme=radical" alt="Linguagens Mais Usadas">
-</p>
+#### **Hardware/IoT:**
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"/> 
+</div>
 
-<!-- CONTATOS -->
-<h2>Vamos Conectar!</h2>
-<p align="left">
-  <a href="https://www.linkedin.com/in/seu-perfil"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
+### 📊 GitHub Stats:
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=thiagocamerato757&show_icons=true&theme=merko" alt="Thiago's GitHub Stats" width="500"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagocamerato757&layout=compact&theme=merko" alt="Most Used Languages" width="300"/>
+</div>
+
+
+### 🗂️ Recent Projects:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagocamerato757&repo=BudgetFlow&theme=merko)](https://github.com/thiagocamerato757/your-repo-name)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagocamerato757&repo=Movies_Tavern&theme=merko)](https://github.com/thiagocamerato757/another-repo-name)
+ 
