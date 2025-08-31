@@ -15,7 +15,7 @@ I’m an undergraduate Computer Science student at PUC-Rio, with a strong intere
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=thiagocamerato757&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote of the day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
