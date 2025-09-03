@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m an undergraduate Computer Science student at PUC-Rio, with a strong interest in Artificial Intelligence and its applications. I am currently focusing on Machine Learning (ML), Large Language Models (LLMs), and MCP Servers.<br><br>I enjoy applying theoretical concepts to real-world projects. My goal is to develop intelligent and efficient solutions while continuously improving my skills in programming, data analysis, and intelligent systems.
+I’m an undergraduate Computer Science student at PUC-Rio, with a strong interest in Artificial Intelligence and its applications. I am currently focusing on Machine Learning (ML) and Large Language Models (LLMs).<br><br>I enjoy applying theoretical concepts to real-world projects. My goal is to develop intelligent and efficient solutions while continuously improving my skills in programming, data analysis, and intelligent systems.
 
 
 ## 🌐 Socials:
