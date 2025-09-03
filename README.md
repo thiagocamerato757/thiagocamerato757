@@ -2,7 +2,7 @@
 I’m an undergraduate Computer Science student at PUC-Rio, with a strong interest in Artificial Intelligence and its applications. I am currently focusing on Machine Learning (ML) and Large Language Models (LLMs).<br><br>I enjoy applying theoretical concepts to real-world projects. My goal is to develop intelligent and efficient solutions while continuously improving my skills in programming, data analysis, and intelligent systems.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/camerato_thiago.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Thiago/Camerato) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cameratothiago@gmail.com) 
 
 # 💻 Tech Stack:
