@@ -12,9 +12,15 @@ I’m an undergraduate Computer Science student at PUC-Rio, with a strong intere
 
 ### Things I'm Building :
 <p>
-  <img src="https://www.svgrepo.com/show/482845/synapse-3.svg" width="28" style="vertical-align: middle;" />
+  <img src="https://www.svgrepo.com/show/482845/synapse-3.svg" width="50" style="vertical-align: middle;" />
   <a href="https://github.com/thiagocamerato757/Axon">
     <img src="https://img.shields.io/badge/Axon-000?style=for-the-badge" />
+  </a>
+</p>
+<p>
+  <img src="https://www.svgrepo.com/show/452634/ai.svg" width="60" style="vertical-align: middle;" />
+  <a href="https://github.com/thiagocamerato757/Ascendia">
+    <img src="https://img.shields.io/badge/Ascendia-000?style=for-the-badge" />
   </a>
 </p>
 
