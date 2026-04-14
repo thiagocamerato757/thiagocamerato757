@@ -10,7 +10,7 @@ I’m an undergraduate Computer Science student at PUC-Rio, with a strong intere
 ## Dev Quote of the day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### working on :
+### Things I'm Building :
 <p>
   <img src="https://www.svgrepo.com/show/482845/synapse-3.svg" width="28" style="vertical-align: middle;" />
   <a href="https://github.com/thiagocamerato757/Axon">
